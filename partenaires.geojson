@@ -1,0 +1,38 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "Name": "Institut National de la Recherche Scientifique",
+        "Site": "<a href=\"http://www.ete.inrs.ca\">Site web</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.22430086135864,
+          46.81279310419005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "medium",
+        "marker-symbol": "star",
+        "marker-color": "#ffff00",
+        "Name": "CIRSA",
+        "Site": "<a href=\"http://www.cirsa-saumon.ca\">Site web</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.93471622467041,
+          48.27299667639779
+        ]
+      }
+    }
+  ]
+}
